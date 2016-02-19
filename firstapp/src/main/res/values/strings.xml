@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">FirstAppTest</string>
+    <string name="action_settings">Settings</string>
+    <string name="asynctask_name">AsyncTask</string>
+    <string name="title_activity_async_task">AsyncTaskActivity</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="text_web_ceo">WEB CEO</string>
+    <string name="text_web_dev">WEB DEVELOPER</string>
+    <string name="text_e_commerce">e-commerce</string>
+    <string name="sliding_activity_name">SlidingActivity</string>
+</resources>
