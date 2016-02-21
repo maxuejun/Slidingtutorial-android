@@ -6,9 +6,15 @@
         android:id="@+id/bRetry"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_centerInParent="true"
         android:stateListAnimator="@android:animator/fade_in"
         android:text="Retry"/>
+    <Button
+        android:id="@+id/bAsyncTask"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/bRetry"
+        android:stateListAnimator="@android:animator/fade_in"
+        android:text="AsyncTaskTest"/>
 
     <FrameLayout
         android:id="@+id/container"

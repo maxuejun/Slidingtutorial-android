@@ -6,4 +6,5 @@
     <string name="text_web_ceo">WEB CEO</string>
     <string name="text_web_dev">WEB DEVELOPER</string>
     <string name="text_e_commerce">e-commerce</string>
+    <string name="download">开始下载</string>
 </resources>
